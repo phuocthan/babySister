@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f3e26fa6-4c1f-47fa-a179-c665b8eb5ea0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 140,
+  "height": 172,
+  "platformSettings": {},
+  "subMetas": {
+    "cuc_xa_bong_lv_1_spine": {
+      "ver": "1.0.6",
+      "uuid": "3675a086-599a-480f-bd9e-a82df032b248",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f3e26fa6-4c1f-47fa-a179-c665b8eb5ea0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 136,
+      "height": 168,
+      "rawWidth": 140,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+binh_thuoc_spine.png
+size: 151,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thuoc_1
+  rotate: true
+  xy: 86, 34
+  size: 139, 63
+  orig: 141, 65
+  offset: 1, 1
+  index: -1
+thuoc_2
+  rotate: true
+  xy: 2, 2
+  size: 171, 82
+  orig: 176, 83
+  offset: 3, 1
+  index: -1

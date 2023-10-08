@@ -1,0 +1,20 @@
+
+thay_bim_spine.png
+size: 374,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baby_1
+  rotate: false
+  xy: 216, 19
+  size: 156, 105
+  orig: 157, 106
+  offset: 1, 1
+  index: -1
+baby_3
+  rotate: false
+  xy: 2, 2
+  size: 212, 122
+  orig: 212, 123
+  offset: 0, 0
+  index: -1

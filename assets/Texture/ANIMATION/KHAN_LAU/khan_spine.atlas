@@ -1,0 +1,20 @@
+
+khan_spine.png
+size: 333,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv1/khan_1
+  rotate: true
+  xy: 265, 23
+  size: 154, 66
+  orig: 154, 69
+  offset: 0, 0
+  index: -1
+lv1/khan_2
+  rotate: true
+  xy: 2, 2
+  size: 175, 261
+  orig: 175, 261
+  offset: 0, 0
+  index: -1

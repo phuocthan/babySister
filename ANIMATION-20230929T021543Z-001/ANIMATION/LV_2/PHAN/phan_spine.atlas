@@ -1,0 +1,13 @@
+
+phan_spine.png
+size: 146,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+phan
+  rotate: false
+  xy: 2, 2
+  size: 142, 125
+  orig: 150, 138
+  offset: 6, 7
+  index: -1

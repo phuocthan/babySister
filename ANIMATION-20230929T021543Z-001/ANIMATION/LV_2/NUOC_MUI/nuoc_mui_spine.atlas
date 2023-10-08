@@ -1,0 +1,13 @@
+
+nuoc_mui_spine.png
+size: 17,24
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuoc_mui
+  rotate: false
+  xy: 2, 2
+  size: 13, 20
+  orig: 13, 21
+  offset: 0, 0
+  index: -1

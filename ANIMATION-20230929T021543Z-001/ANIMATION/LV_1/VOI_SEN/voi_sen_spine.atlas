@@ -1,0 +1,20 @@
+
+voi_sen_spine.png
+size: 1796,1067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv1/nuoc_voi_sen
+  rotate: false
+  xy: 2, 2
+  size: 493, 317
+  orig: 500, 319
+  offset: 3, 1
+  index: -1
+voi_sen_new
+  rotate: false
+  xy: 2, 321
+  size: 1792, 744
+  orig: 1792, 744
+  offset: 0, 0
+  index: -1

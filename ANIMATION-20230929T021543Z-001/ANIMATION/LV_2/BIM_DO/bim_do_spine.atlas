@@ -1,0 +1,20 @@
+
+bim_do_spine.png
+size: 430,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baby_2
+  rotate: false
+  xy: 2, 2
+  size: 212, 122
+  orig: 212, 124
+  offset: 0, 1
+  index: -1
+baby_3
+  rotate: false
+  xy: 216, 2
+  size: 212, 122
+  orig: 212, 123
+  offset: 0, 0
+  index: -1

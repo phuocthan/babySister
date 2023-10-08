@@ -1,0 +1,19 @@
+vào game cho chay anim "con_vit_nuoc". track riêng lẻ.
+
+                       "character_idle"
+
+                        " foder vết dơ" chạy anim "vet_do_idle"
+
+ Nếu người chơi lâu quá không lấy xà bông lau thì chuyển sang anim "charater_sad"
+ lâu hơn nữa thì chuyển qua "character_khoc"
+ 
+ Vào game anim "cuc_xa_bong_idle" (nằm ở file spine khác)
+ khi click vào cục xà bông thì chuyển sang anim "cuc_xa_bong_click"
+
+lúc này code sẽ cho di chuyển cục xà bông vào vị trí anim "vet_do_idle" (có vị trí bone của vết dơ)
+
+ sau khi di chuyển vào vết dơ nào thì sẽ chuyển sang anim "vet_do_to_botxabong"
+
+ 
+ 
+ 

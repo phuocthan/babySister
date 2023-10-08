@@ -1,0 +1,20 @@
+
+cuc_xa_bong_lv_1_spine.png
+size: 140,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv1/xabong_1
+  rotate: false
+  xy: 2, 2
+  size: 134, 59
+  orig: 136, 62
+  offset: 1, 0
+  index: -1
+lv1/xabong_2
+  rotate: false
+  xy: 2, 63
+  size: 136, 107
+  orig: 136, 107
+  offset: 0, 0
+  index: -1

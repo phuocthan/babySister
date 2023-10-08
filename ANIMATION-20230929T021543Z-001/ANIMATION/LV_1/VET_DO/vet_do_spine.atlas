@@ -1,0 +1,27 @@
+
+vet_do_spine.png
+size: 259,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv1/bot_xabong
+  rotate: false
+  xy: 2, 7
+  size: 140, 127
+  orig: 147, 131
+  offset: 4, 0
+  index: -1
+lv1/giot_nuoc
+  rotate: false
+  xy: 144, 42
+  size: 113, 92
+  orig: 115, 99
+  offset: 2, 7
+  index: -1
+lv1/vet_do
+  rotate: false
+  xy: 144, 2
+  size: 42, 38
+  orig: 49, 43
+  offset: 3, 2
+  index: -1
