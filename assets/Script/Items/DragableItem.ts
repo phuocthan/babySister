@@ -20,9 +20,12 @@ export default class DragableItem extends cc.Component {
     public stickToMode: boolean = false;
 
     protected _originalPosition: cc.Vec3 = null;
+    spine: sp.Skeleton;
 
     onLoad() {
         this.initOriginalPosition();
+        this.spine = this.node.children[0].getComponent(sp.Skeleton);
+        this.setState(DraggableItemState.Idle);
     }
 
     start() {
@@ -59,6 +62,17 @@ export default class DragableItem extends cc.Component {
     
     setState(state: DraggableItemState) {
         this._currentState = state;
+        switch(state) {
+            case DraggableItemState.Idle:
+                this.spine.setAnimation(0, 'idle', true);
+                break;
+            case DraggableItemState.Holding: 
+                this.spine.setAnimation(0, 'click', true);
+                break;
+            default: 
+                this.spine.setAnimation(0, 'idle', true);
+                break;
+        }
     }
     
     // update(dt: number) {}

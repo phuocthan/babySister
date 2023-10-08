@@ -1,208 +1,215 @@
 
 character_lv_1_spine.png
-size: 1573,777
+size: 1620,776
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bim
-  rotate: false
-  xy: 1167, 177
+  rotate: true
+  xy: 1239, 130
   size: 212, 122
   orig: 214, 125
   offset: 1, 1
   index: -1
 body
-  rotate: false
-  xy: 810, 72
+  rotate: true
+  xy: 800, 140
   size: 202, 237
   orig: 202, 239
   offset: 0, 1
   index: -1
 chan_1
-  rotate: false
-  xy: 1167, 80
+  rotate: true
+  xy: 924, 4
   size: 134, 95
   orig: 137, 97
   offset: 1, 1
   index: -1
 chan_2
-  rotate: true
-  xy: 1014, 6
+  rotate: false
+  xy: 1513, 340
   size: 103, 123
   orig: 105, 125
   offset: 1, 1
   index: -1
 chan_3
-  rotate: false
-  xy: 810, 2
+  rotate: true
+  xy: 1474, 124
   size: 93, 68
   orig: 95, 70
   offset: 1, 1
   index: -1
 con_nguoi
-  rotate: false
-  xy: 1222, 2
+  rotate: true
+  xy: 1546, 284
   size: 54, 50
   orig: 56, 52
   offset: 1, 1
   index: -1
 head
-  rotate: true
-  xy: 1239, 301
+  rotate: false
+  xy: 431, 38
   size: 353, 321
   orig: 353, 321
   offset: 0, 0
   index: -1
 head_mat
   rotate: false
-  xy: 905, 9
+  xy: 1227, 7
   size: 84, 61
   orig: 87, 66
   offset: 1, 1
   index: -1
 long_may_b
-  rotate: false
-  xy: 304, 24
+  rotate: true
+  xy: 1350, 6
   size: 79, 25
   orig: 83, 28
   offset: 2, 1
   index: -1
 long_may_r
-  rotate: false
-  xy: 385, 19
+  rotate: true
+  xy: 1318, 55
   size: 73, 30
   orig: 75, 33
   offset: 1, 1
   index: -1
 long_mi
   rotate: true
-  xy: 1303, 81
+  xy: 1363, 87
   size: 94, 63
   orig: 97, 68
   offset: 1, 1
   index: -1
 lv1/bon_tam
   rotate: false
-  xy: 2, 362
+  xy: 2, 361
   size: 806, 413
   orig: 806, 453
   offset: 0, 0
   index: -1
 lv1/bon_tam_2
   rotate: false
-  xy: 2, 51
+  xy: 810, 465
   size: 806, 309
   orig: 808, 311
   offset: 1, 1
   index: -1
+lv1/bongbong
+  rotate: false
+  xy: 786, 2
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
 lv1/git_nuoc
-  rotate: true
-  xy: 460, 20
+  rotate: false
+  xy: 1313, 10
   size: 29, 43
   orig: 32, 49
   offset: 3, 4
   index: -1
 lv1/ncmat
   rotate: false
-  xy: 1153, 54
+  xy: 1544, 146
   size: 74, 24
   orig: 77, 26
   offset: 1, 1
   index: -1
 lv1/nuoc
   rotate: false
-  xy: 810, 656
+  xy: 810, 344
   size: 701, 119
   orig: 701, 119
   offset: 0, 0
   index: -1
 lv1/vit
-  rotate: true
-  xy: 1368, 54
+  rotate: false
+  xy: 1363, 219
   size: 116, 119
   orig: 116, 120
   offset: 0, 1
   index: -1
 lv1/voisen_2
   rotate: false
-  xy: 1278, 7
+  xy: 1377, 14
   size: 48, 71
   orig: 49, 71
   offset: 1, 0
   index: -1
 mat_2
-  rotate: true
-  xy: 1513, 686
+  rotate: false
+  xy: 1227, 70
   size: 89, 58
   orig: 92, 67
   offset: 1, 1
   index: -1
 mat_3
   rotate: false
-  xy: 2, 15
+  xy: 1363, 183
   size: 109, 34
   orig: 115, 40
   offset: 2, 5
   index: -1
 mieng_1
   rotate: true
-  xy: 1489, 72
+  xy: 1481, 244
   size: 98, 30
   orig: 100, 32
   offset: 1, 1
   index: -1
 mieng_2
   rotate: false
-  xy: 212, 25
+  xy: 1460, 98
   size: 90, 24
   orig: 92, 26
   offset: 1, 1
   index: -1
 mieng_3
   rotate: true
-  xy: 1521, 73
+  xy: 1428, 84
   size: 97, 30
   orig: 100, 32
   offset: 2, 1
   index: -1
 mieng_4
-  rotate: false
-  xy: 113, 18
+  rotate: true
+  xy: 1513, 241
   size: 97, 31
   orig: 100, 33
   offset: 2, 1
   index: -1
 mieng_5
   rotate: true
-  xy: 1139, 6
+  xy: 786, 256
   size: 103, 12
   orig: 107, 14
   offset: 2, 1
   index: -1
 tay_r
   rotate: false
-  xy: 1381, 172
+  xy: 1039, 62
   size: 186, 127
   orig: 186, 127
   offset: 0, 0
   index: -1
 toc
   rotate: false
-  xy: 810, 311
+  xy: 2, 16
   size: 427, 343
   orig: 427, 354
   offset: 0, 11
   index: -1
 toc_2
-  rotate: false
-  xy: 1014, 111
+  rotate: true
+  xy: 1039, 191
   size: 151, 198
   orig: 157, 209
   offset: 5, 4
   index: -1
 trong_trang
-  rotate: false
-  xy: 1153, 2
+  rotate: true
+  xy: 1544, 172
   size: 67, 50
   orig: 69, 52
   offset: 1, 1
